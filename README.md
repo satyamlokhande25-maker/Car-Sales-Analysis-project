@@ -1,11 +1,11 @@
- # Car Sales Analysis
+ # Car-Sales-Analysis-project
 
  Small project analyzing car sales data and generating reports from `car.ipynb`.
 
  Files:
-- `car.ipynb` - Jupyter notebook with analysis
-- `car_report.html` / `car_report.pdf` - exported report
-- `car_sales_report.csv` - source data
+ - `car.ipynb` - Jupyter notebook with analysis
+ - `car_report.html` / `car_report.pdf` - exported report
+ - `car_sales_report.csv` - source data
 
  To reproduce locally:
 
